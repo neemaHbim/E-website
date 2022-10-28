@@ -28,7 +28,7 @@ const Header = () => {
       <Container>
         <Link to= '/'>
             <Navbar.Brand className={darkMode? 'text-dark-primary': 'text-light-primary'}>
-                <b>Simple-ecart</b> 
+                <b>Zach's Shop</b> 
             </Navbar.Brand>
         </Link>
 

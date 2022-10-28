@@ -7,8 +7,8 @@ return(
 
 <div className="col-sm-6 offset-sm-3">
 <br/>
-<input type="type" className="form-control" />
-<input/>
+<input type="type" className="form-control" placeholder="name" /> <br/>
+<input type="" className=""/>
 
 
 </div>
